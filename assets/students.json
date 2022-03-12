@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "William Wood",
+    "age": 18,
+    "group_id": 1,
+    "semester": 1,
+    "where": "Room 15",
+    "when": "3/12/2022 11:23"
+  },
+  {
+    "id": 1,
+    "name": "Joe Black",
+    "age": 19,
+    "group_id": 2,
+    "semester": 2,
+    "where": "Room 3",
+    "when": "3/12/2022 10:04"
+  }
+]
